@@ -1,4 +1,4 @@
-#Brain Tumor Detection CNN Model
+# Brain Tumor Detection CNN Model
 
 The project focuses on the CNN trained model which can predict the results after input images which have been given to the model. In our case, we have picked the brain tumor images for training the model. After the training the model will be able to predict whether the patient has a tumor or not.
 
